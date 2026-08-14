@@ -122,7 +122,15 @@
         "link": "https://avoa.ir/"
       }
     ]
-  },Tehran Institute of Technology (MFT)"
+  },
+  "certs": {
+    "kicker": "۰۴ / یادگیری مستمر",
+    "title": "مدارک و دوره‌ها",
+    "items": [
+      { "name": "Front-End Web Development", "org": "Coursera" },
+      {
+        "name": "Front-End Web Development",
+        "org": "Tehran Institute of Technology (MFT)"
       },
       {
         "name": "WordPress & WooCommerce Essential Training",
@@ -131,15 +139,7 @@
       {
         "name": "کارشناسی مترجمی زبان فرانسه",
         "org": "دانشگاه علامه طباطبایی",
-        "duration": "۱۳۹۰ – ۱۳۹۴logy (SIT)"
-      },
-      {
-        "name": "WordPress & WooCommerce Essential Training",
-        "org": "Saman Institute of Technology (SIT)"
-      },
-      {
-        "name": "کارشناسی مترجمی زبان فرانسه",
-        "org": "دانشگاه آزاد اسلامی سمنان"
+        "duration": "۱۳۹۰ – ۱۳۹۴"
       }
     ]
   },
@@ -156,12 +156,12 @@
     "kicker": "۰۶ / تماس",
     "title": "علاقه‌مند به همکاری هستید؟",
     "desc": "بیایید درباره پروژه بعدی‌تان صحبت کنیم — از طریق ایمیل یا شبکه‌های اجتماعی در دسترسم.",
-    "cta": "بیایید ص۵ — پورتفولیو مجتبی. طراحی و توسعه با دقت.",
+    "cta": "بیایید صحبت کنیم",
+    "footer": "© ۱۴۰۵ — پورتفولیو مجتبی. طراحی و توسعه با دقت.",
     "socialLinks": {
       "github": "https://github.com/sabzehparvar",
       "linkedin": "https://www.linkedin.com/in/mojtaba-sabzehparvar/",
       "email": "mailto:sabzehparvar.mojtaba@gmail.com"
     }
-    "footer": "© ۱۴۰۴ — پورتفولیو مجتبی. طراحی و توسعه با دقت."
   }
 }
