@@ -1,0 +1,26 @@
+export const seoData = {
+  title: "Mojtaba Sabzehparvar | Frontend Developer",
+  description:
+    "Frontend Developer with 4+ years of experience building responsive web applications using React, Next.js, TypeScript, and modern frontend technologies.",
+  image: "https://avatars.githubusercontent.com/u/100292055?v=4",
+  url: "https://sabzeparvar.com/",
+  author: "Mojtaba Sabzehparvar",
+  keywords: [
+    "Mojtaba Sabzehparvar",
+    "Sabzehparvar",
+    "Frontend Developer",
+    "React Developer",
+    "Next.js Developer",
+    "TypeScript Developer",
+    "JavaScript Developer",
+    "React Portfolio",
+    "Next.js Portfolio",
+    "Frontend Portfolio",
+    "Web Developer Portfolio",
+    "Fintech Frontend Developer",
+    "Tehran Frontend Developer",
+    "Frontend Engineer",
+    "مجتبی سبزه پرور",
+    "سبزه پرور",
+  ],
+};
