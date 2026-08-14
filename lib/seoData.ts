@@ -1,7 +1,7 @@
 export const seoData = {
   title: "Mojtaba Sabzehparvar | Frontend Developer",
   description:
-    "Frontend Developer with 4+ years of experience building responsive web applications using React, Next.js, TypeScript, and modern frontend technologies.",
+    "I'm a Frontend Developer with 4+ years of experience building responsive web applications using React, Next.js, TypeScript, and modern frontend technologies. Experienced in fintech and enterprise platforms with a focus on scalable interfaces, performance, and clean user experiences.",
   image: "https://avatars.githubusercontent.com/u/100292055?v=4",
   url: "https://sabzeparvar.com/",
   author: "Mojtaba Sabzehparvar",
@@ -23,4 +23,9 @@ export const seoData = {
     "مجتبی سبزه پرور",
     "سبزه پرور",
   ],
+  socialLinks: {
+    github: "https://github.com/sabzehparvar",
+    linkedin: "https://www.linkedin.com/in/mojtaba-sabzehparvar/",
+    email: "mailto:sabzehparvar.mojtaba@gmail.com",
+  },
 };

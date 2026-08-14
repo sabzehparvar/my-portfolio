@@ -48,7 +48,7 @@ export default function Projects({ dict }: { dict: Dictionary }) {
                     </span>
                   ))}
                 </div>
-                <a className="proj-link" href="#">
+                <a className="proj-link" href={p.link || "#"}>
                   {dict.projects.viewLabel} <ArrowUpRightIcon />
                 </a>
               </div>

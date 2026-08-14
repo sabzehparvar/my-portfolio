@@ -14,7 +14,7 @@
     "titlePre": "سلام، من",
     "name": "مجتبی سبزه پرور",
     "titlePost": "هستم",
-    "lede": "با بیش از ۴ سال تجربه در ساخت اپلیکیشن‌های وب واکنش‌گرا با React، Next.js، TypeScript و ابزارهای مدرن فرانت‌اند. تمرکز من روی رابط‌های مقیاس‌پذیر، عملکرد بالا و کدی تمیز و قابل نگهداری است.",
+    "lede": "توسعه‌دهنده فرانت‌اندی با بیش از ۴ سال تجربه در ساخت اپلیکیشن‌های وب واکنش‌گرا با React، Next.js، TypeScript و تکنولوژی‌های مدرن فرانت‌اند. تجربه در پلتفرم‌های Fintech و سازمانی با تمرکز بر رابط‌های مقیاس‌پذیر، عملکرد بالا و تجربه کاربری تمیز.",
     "status": "در دسترس برای همکاری",
     "scroll": "SCROLL",
     "avatarInitial": "م"
@@ -49,14 +49,14 @@
         "role": "توسعه‌دهنده فرانت‌اند",
         "date": "مرداد ۱۴۰۲ — اکنون",
         "company": "Saman Electronic Payment (SEP)",
-        "desc": "توسعه فرانت‌اند و اپلیکیشن‌های سازمانی با React، TypeScript، Redux Toolkit و Tailwind CSS برای مشتریان حوزه بانکداری، خدمات پرداخت و پلتفرم‌های اپلیکیشن‌محور. بهبود معماری کد و تجربه کاربری تیم."
+        "desc": "توسعه و بهبود اپلیکیشن‌های وب Fintech و سازمانی با استفاده از React، Next.js، TypeScript، Redux Toolkit و Tailwind CSS برای خدمات رو‌به‌مشتری و پلتفرم‌های عملیاتی داخلی. نگهداری سیستم‌های قدیمی‌تر ساخته‌شده با jQuery و Bootstrap."
       },
       {
         "logo": "SAEI",
         "role": "توسعه‌دهنده فرانت‌اند",
-        "date": "تیر ۱۴۰۱ — اردیبهشت ۱۴۰۲",
+        "date": "فروردین ۱۴۰۱ — اردیبهشت ۱۴۰۲",
         "company": "SAEI Group",
-        "desc": "مشارکت در توسعه فرانت‌اند برای Myirancell و اپلیکیشن‌های خدمات پرداخت، شامل صفحات فعال‌سازی حساب، پرداخت قبض و مدیریت صورت‌حساب با jQuery و Bootstrap."
+        "desc": "مشارکت در توسعه فرانت‌اند برای اپلیکیشن MyIrancell، یک پلتفرم خودخدمات تلکمی که میلیون‌ها کاربر در سراسر ایران آن را استفاده می‌کنند. ساخت رابط‌های واکنش‌گرا و اجرای بهبودهای رابط‌کاربری با React، Next.js و Tailwind CSS."
       }
     ]
   },
@@ -68,61 +68,70 @@
       {
         "n": "01",
         "title": "SEP Shop",
-        "desc": "مشارکت در توسعه فرانت‌اند و بهبود ویژگی‌های فروشگاه الکترونیک سامان، شامل صفحات محصول و پرداخت.",
-        "tags": ["React", "TypeScript", "Tailwind CSS"]
+        "desc": "مشارکت در توسعه فرانت‌اند و پیاده‌سازی ویژگی‌های یک پلتفرم Fintech رو‌به‌مشتری توسط Saman Electronic Payment، شامل خدمات پرداخت، پرداخت قبض، تاپ‌آپ موبایل و رابط‌های واکنش‌گرا.",
+        "tags": ["React", "Next.js", "Fintech"],
+        "link": "https://shop.sep.ir/"
       },
       {
         "n": "02",
         "title": "۷۲۴",
-        "desc": "مشارکت در توسعه فرانت‌اند برای یک پلتفرم خدمات پرداخت شامل پرداخت قبض و صورت‌حساب.",
-        "tags": ["JavaScript", "Redux Toolkit"]
+        "desc": "مشارکت در توسعه فرانت‌اند برای 724.ir، یک پلتفرم پرداخت و خدمات مالی بزرگ‌مقیاس، شامل جریان‌های پرداخت، پرداخت قبض، بسته‌های اینترنت، جریمه خودروها و رابط‌های رو‌به‌مشتری واکنش‌گرا.",
+        "tags": ["Fintech", "Payment Platform", "React"],
+        "link": "https://724.ir/"
       },
       {
         "n": "03",
         "title": "Myirancell",
-        "desc": "مشارکت در توسعه اپلیکیشن Myirancell و بهبود رابط کاربری با تمرکز بر تجربه کاربران بی‌سیم.",
-        "tags": ["React", "RTK Query"]
+        "desc": "مشارکت در توسعه فرانت‌اند برای اپلیکیشن MyIrancell، یک پلتفرم خودخدمات تلکمی که میلیون‌ها کاربر در سراسر ایران استفاده می‌کنند، در همکاری با MTN Irancell.",
+        "tags": ["React", "Next.js", "Telecom"],
+        "link": "https://play.google.com/store/apps/details?id=com.myirancell&hl=en&gl=US"
       },
       {
         "n": "04",
         "title": "Saei Group",
-        "desc": "توسعه صفحه اصلی و پیاده‌سازی سیستم جامع سائی با تمرکز بر عملکرد و واکنش‌گرایی.",
-        "tags": ["Next.js", "TypeScript"]
+        "desc": "توسعه صفحات واکنش‌گرا و مؤلفه‌های رابط‌کاربری قابل‌استفاده‌مجدد برای وب‌سایت شرکت با استفاده از Next.js و Tailwind CSS.",
+        "tags": ["Next.js", "Tailwind CSS", "Responsive UI"],
+        "link": "http://saeigroup.ir/"
       },
       {
         "n": "05",
         "title": "Digirefahi",
-        "desc": "پیاده‌سازی ویژگی‌های جدید فرانت‌اند و بهبود سازگاری بین مرورگرها.",
-        "tags": ["JavaScript", "Bootstrap"]
+        "desc": "پیاده‌سازی ویژگی‌های جدید فرانت‌اند و بهبودهای طراحی رابط‌کاربری و افزایش واکنش‌گرایی و سهولت استفاده در سراسر پلتفرم.",
+        "tags": ["Frontend", "Responsive Design"],
+        "link": "https://digirefahi.com/"
       },
       {
         "n": "06",
         "title": "Sierra Vision",
-        "desc": "پیاده‌سازی ویژگی‌های جدید فرانت‌اند و بهینه‌سازی طراحی رابط کاربری بروشور محصول.",
-        "tags": ["React", "Zustand"]
+        "desc": "بهبود عملکرد فرانت‌اند، پیاده‌سازی بروزرسانی‌های طراحی و حل‌مسائل طرح‌بندی واکنش‌گرا در صفحات متعدد.",
+        "tags": ["Frontend", "Responsive UI"],
+        "link": "https://sierra.vision/"
       },
       {
         "n": "07",
         "title": "Verjen",
-        "desc": "پیاده‌سازی ویژگی‌های جدید و بهینه‌سازی توسعه رابط کاربری فروشگاه دو زبانه.",
-        "tags": ["Next.js", "Axios"]
+        "desc": "پیاده‌سازی ویژگی‌های جدید، بهبود طرح‌بندی‌های واکنش‌گرا و مشارکت در توسعه یک رابط‌کاربری دو‌زبانه.",
+        "tags": ["Frontend", "Bilingual UI"],
+        "link": "https://verjen.ir/"
       },
       {
         "n": "08",
         "title": "Avoa",
-        "desc": "مشارکت در توسعه فرانت‌اند برای صفحات جدید و بهبود واکنش‌گرایی بلاگ.",
-        "tags": ["React", "Tailwind CSS"]
+        "desc": "مشارکت در توسعه فرانت‌اند با ساخت صفحات جدید، تصحیح طراحی رابط‌کاربری و بهبود واکنش‌گرایی و طرح‌بندی صفحات بلاگ.",
+        "tags": ["Frontend", "Responsive Design"],
+        "link": "https://avoa.ir/"
       }
     ]
-  },
-  "certs": {
-    "kicker": "۰۴ / یادگیری مستمر",
-    "title": "مدارک و دوره‌ها",
-    "items": [
-      { "name": "Front-End Web Development", "org": "Coursera" },
+  },Tehran Institute of Technology (MFT)"
+      },
       {
-        "name": "Front-End Web Development",
-        "org": "Saman Institute of Technology (SIT)"
+        "name": "WordPress & WooCommerce Essential Training",
+        "org": "Tehran Institute of Technology (MFT)"
+      },
+      {
+        "name": "کارشناسی مترجمی زبان فرانسه",
+        "org": "دانشگاه علامه طباطبایی",
+        "duration": "۱۳۹۰ – ۱۳۹۴logy (SIT)"
       },
       {
         "name": "WordPress & WooCommerce Essential Training",
@@ -147,7 +156,12 @@
     "kicker": "۰۶ / تماس",
     "title": "علاقه‌مند به همکاری هستید؟",
     "desc": "بیایید درباره پروژه بعدی‌تان صحبت کنیم — از طریق ایمیل یا شبکه‌های اجتماعی در دسترسم.",
-    "cta": "بیایید صحبت کنیم",
+    "cta": "بیایید ص۵ — پورتفولیو مجتبی. طراحی و توسعه با دقت.",
+    "socialLinks": {
+      "github": "https://github.com/sabzehparvar",
+      "linkedin": "https://www.linkedin.com/in/mojtaba-sabzehparvar/",
+      "email": "mailto:sabzehparvar.mojtaba@gmail.com"
+    }
     "footer": "© ۱۴۰۴ — پورتفولیو مجتبی. طراحی و توسعه با دقت."
   }
 }
