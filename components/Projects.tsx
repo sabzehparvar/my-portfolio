@@ -23,13 +23,27 @@ export default function Projects({ dict }: { dict: Dictionary }) {
         <div className="proj-grid">
           {dict.projects.items.map((p) => (
             <div className="proj-card reveal accent-card" key={p.n}>
-              <div className="proj-visual" data-n={p.n}>
-                <img
-                  src={projectImageMap[p.title]}
-                  alt={p.title}
-                  style={{ width: "100%", height: "100%", objectFit: "cover" }}
-                />
-                <span className="glyph">{p.title}</span>
+              <div className="proj-visual" data-n={p.n} style={{ display: "flex" }}>
+                <div style={{ flex: "1", overflow: "hidden" }}>
+                  <img
+                    src={projectImageMap[p.title]}
+                    alt={p.title}
+                    style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                  />
+                </div>
+                <div
+                  style={{
+                    flex: "1",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    padding: "1rem",
+                  }}
+                >
+                  <span className="glyph" style={{ textAlign: "center" }}>
+                    {p.title}
+                  </span>
+                </div>
               </div>
               <div className="proj-body">
                 <div className="proj-title">{p.title}</div>
