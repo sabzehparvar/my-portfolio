@@ -1,6 +1,17 @@
 import type { Dictionary } from "@/lib/dictionaries";
 import { ArrowUpRightIcon } from "./Icons";
 
+const projectImageMap: Record<string, string> = {
+  "SEP Shop": "/projects/sep-shop.png",
+  "724": "/projects/724.png",
+  "Myirancell": "/projects/Myirancell.png",
+  "Saei Group": "/projects/Saei-group.JPEG",
+  "Digirefahi": "/projects/Digirefahi.png",
+  "Sierra Vision": "/projects/sierra-vision.jpg",
+  "Verjen": "/projects/verjen.jpg",
+  "Avoa": "/projects/avoa.jpg",
+};
+
 export default function Projects({ dict }: { dict: Dictionary }) {
   return (
     <section className="pad" id="projects">
@@ -13,6 +24,11 @@ export default function Projects({ dict }: { dict: Dictionary }) {
           {dict.projects.items.map((p) => (
             <div className="proj-card reveal accent-card" key={p.n}>
               <div className="proj-visual" data-n={p.n}>
+                <img
+                  src={projectImageMap[p.title]}
+                  alt={p.title}
+                  style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                />
                 <span className="glyph">{p.title}</span>
               </div>
               <div className="proj-body">

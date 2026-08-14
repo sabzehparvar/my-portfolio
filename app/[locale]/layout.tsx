@@ -53,7 +53,11 @@ export async function generateMetadata({
         { url: "/images/web-dev.png", sizes: "32x32", type: "image/png" },
         { url: "/images/web-dev.png", sizes: "16x16", type: "image/png" },
       ],
-      apple: { url: "/images/web-dev.png", sizes: "120x120", type: "image/png" },
+      apple: {
+        url: "/images/web-dev.png",
+        sizes: "120x120",
+        type: "image/png",
+      },
     },
   };
 }
