@@ -50,10 +50,10 @@ export async function generateMetadata({
     manifest: "/manifest.json",
     icons: {
       icon: [
-        { url: "/favicon.png", sizes: "32x32", type: "image/png" },
-        { url: "/favicon.png", sizes: "16x16", type: "image/png" },
+        { url: "/images/web-dev.png", sizes: "32x32", type: "image/png" },
+        { url: "/images/web-dev.png", sizes: "16x16", type: "image/png" },
       ],
-      apple: { url: "/favicon.png", sizes: "120x120", type: "image/png" },
+      apple: { url: "/images/web-dev.png", sizes: "120x120", type: "image/png" },
     },
   };
 }
