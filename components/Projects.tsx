@@ -4,12 +4,12 @@ import { ArrowUpRightIcon } from "./Icons";
 const projectImageMap: Record<string, string> = {
   "SEP Shop": "/projects/sep-shop.png",
   "724": "/projects/724.png",
-  "Myirancell": "/projects/Myirancell.png",
+  Myirancell: "/projects/Myirancell.png",
   "Saei Group": "/projects/Saei-group.JPEG",
-  "Digirefahi": "/projects/Digirefahi.png",
+  Digirefahi: "/projects/Digirefahi.png",
   "Sierra Vision": "/projects/sierra-vision.jpg",
-  "Verjen": "/projects/verjen.jpg",
-  "Avoa": "/projects/avoa.jpg",
+  Verjen: "/projects/verjen.jpg",
+  Avoa: "/projects/avoa.jpg",
 };
 
 export default function Projects({ dict }: { dict: Dictionary }) {
@@ -23,35 +23,29 @@ export default function Projects({ dict }: { dict: Dictionary }) {
         <div className="proj-grid">
           {dict.projects.items.map((p) => (
             <div className="proj-card reveal accent-card" key={p.n}>
-              <div className="proj-visual" data-n={p.n} style={{ display: "flex", height: "100%" }}>
-                <div style={{ flex: "0 0 70%", overflow: "hidden" }}>
+              <div className="proj-visual" style={{ display: "flex" }}>
+                <div style={{ overflow: "hidden" }}>
                   <img
                     src={projectImageMap[p.title]}
                     alt={p.title}
-                    style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                    style={{
+                      width: "100%",
+                      height: "100%",
+                      objectFit: "cover",
+                    }}
                   />
-                </div>
-                <div
-                  style={{
-                    flex: "0 0 30%",
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    padding: "1rem",
-                  }}
-                  className="hidden sm:flex"
-                >
-                  <span className="glyph" style={{ textAlign: "center" }}>
-                    {p.n}
-                  </span>
                 </div>
               </div>
               <div className="proj-body">
-                <div className="proj-title">{p.title}</div>
+                <div className="proj-title" data-n={p.n}>
+                  {p.title}
+                </div>
                 <p className="proj-desc">{p.desc}</p>
                 <div className="tag-row">
                   {p.tags.map((t) => (
-                    <span className="tag" key={t}>{t}</span>
+                    <span className="tag" key={t}>
+                      {t}
+                    </span>
                   ))}
                 </div>
                 <a className="proj-link" href="#">

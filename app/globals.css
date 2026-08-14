@@ -715,7 +715,9 @@ section.pad {
   border-radius: var(--radius);
   overflow: hidden;
   display: flex;
+  max-width: 520px;
   flex-direction: column;
+  margin: auto;
   transition:
     transform 0.35s ease,
     border-color 0.35s ease;
@@ -725,8 +727,7 @@ section.pad {
   border-color: rgba(63, 144, 104, 0.35);
 }
 .proj-visual {
-  height: 150px;
-  position: relative;
+  max-height: 260px;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -734,18 +735,7 @@ section.pad {
   background: linear-gradient(155deg, var(--panel-2), var(--bg-soft));
   border-bottom: 1px solid var(--line);
 }
-.proj-visual::before {
-  content: attr(data-n);
-  position: absolute;
-  inset-inline-start: 18px;
-  top: -14px;
-  z-index: 1;
-  font-family: var(--font-mono);
-  font-weight: 700;
-  font-size: 72px;
-  color: rgba(244, 240, 230, 0.05);
-  letter-spacing: -0.02em;
-}
+
 .proj-visual .glyph {
   font-family: var(--font-mono);
   font-size: 13px;
@@ -772,6 +762,7 @@ section.pad {
 }
 .proj-body {
   padding: 24px 26px 26px;
+  min-height: 280px;
   display: flex;
   flex-direction: column;
   gap: 12px;
