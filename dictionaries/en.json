@@ -1,8 +1,12 @@
 {
   "meta": { "title": "Mojtaba — Frontend Developer" },
   "nav": {
-    "intro": "Intro", "skills": "Skills", "experience": "Experience",
-    "projects": "Projects", "certs": "Certificates", "contact": "Contact"
+    "intro": "Intro",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "certs": "Certificates",
+    "contact": "Contact"
   },
   "langSwitch": { "label": "فا", "href": "/fa" },
   "hero": {
@@ -41,12 +45,16 @@
     "title": "Work experience",
     "items": [
       {
-        "logo": "SEP", "role": "Frontend Developer", "date": "Aug 2023 — Present",
+        "logo": "SEP",
+        "role": "Frontend Developer",
+        "date": "Aug 2023 — Present",
         "company": "Saman Electronic Payment (SEP)",
         "desc": "Developing fintech and enterprise web applications using React, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS for customer-facing services and internal operational platforms. Maintaining legacy systems built with jQuery and Bootstrap."
       },
       {
-        "logo": "SAEI", "role": "Frontend Developer", "date": "Jan 2022 — May 2023",
+        "logo": "SAEI",
+        "role": "Frontend Developer",
+        "date": "Jan 2022 — May 2023",
         "company": "SAEI Group",
         "desc": "Contributed to frontend development for the MyIrancell web application, a telecom self-service platform serving millions of users across Iran. Built responsive interfaces and implemented UI improvements using React, Next.js, and Tailwind CSS."
       }
@@ -61,57 +69,49 @@
         "n": "01",
         "title": "SEP Shop",
         "desc": "Contributed to frontend development and feature implementation for a customer-facing fintech platform by Saman Electronic Payment (SEP), including payment services, bill payments, mobile top-ups, and responsive user interfaces.",
-        "tags": ["React", "Next.js", "Fintech"],
-        "link": "https://shop.sep.ir/"
+        "tags": ["React", "Next.js", "Fintech"]
       },
       {
         "n": "02",
         "title": "724",
         "desc": "Contributed to frontend development for 724.ir, a large-scale payment and financial services platform, including payment flows, bill payments, internet packages, vehicle fines, and responsive customer-facing interfaces.",
-        "tags": ["Fintech", "Payment Platform", "React"],
-        "link": "https://724.ir/"
+        "tags": ["Fintech", "Payment Platform", "React"]
       },
       {
         "n": "03",
         "title": "Myirancell",
         "desc": "Contributed to frontend development for the MyIrancell web application, a telecom self-service platform serving millions of users across Iran, in collaboration with MTN Irancell.",
-        "tags": ["React", "Next.js", "Telecom"],
-        "link": "https://play.google.com/store/apps/details?id=com.myirancell&hl=en&gl=US"
+        "tags": ["React", "Next.js", "Telecom"]
       },
       {
         "n": "04",
         "title": "Saei Group",
         "desc": "Developed responsive pages and reusable UI components for the company website using Next.js and Tailwind CSS.",
-        "tags": ["Next.js", "Tailwind CSS", "Responsive UI"],
-        "link": "http://saeigroup.ir/"
+        "tags": ["Next.js", "Tailwind CSS", "Responsive UI"]
       },
       {
         "n": "05",
         "title": "Digirefahi",
         "desc": "Implemented new frontend features and UI improvements while enhancing responsiveness and usability across the platform.",
-        "tags": ["Frontend", "Responsive Design"],
-        "link": "https://digirefahi.com/"
+        "tags": ["Frontend", "Responsive Design"]
       },
       {
         "n": "06",
         "title": "Sierra Vision",
         "desc": "Enhanced frontend functionality, implemented design updates, and resolved responsive layout issues across multiple pages.",
-        "tags": ["Frontend", "Responsive UI"],
-        "link": "https://sierra.vision/"
+        "tags": ["Frontend", "Responsive UI"]
       },
       {
         "n": "07",
         "title": "Verjen",
         "desc": "Implemented new features, improved responsive layouts, and contributed to the development of a bilingual user interface.",
-        "tags": ["Frontend", "Bilingual UI"],
-        "link": "https://verjen.ir/"
+        "tags": ["Frontend", "Bilingual UI"]
       },
       {
         "n": "08",
         "title": "Avoa",
         "desc": "Contributed to frontend development by building new pages, refining UI design, and improving responsiveness and blog page layouts.",
-        "tags": ["Frontend", "Responsive Design"],
-        "link": "https://avoa.ir/"
+        "tags": ["Frontend", "Responsive Design"]
       }
     ]
   },
@@ -120,9 +120,18 @@
     "title": "Certificates & courses",
     "items": [
       { "name": "Front-End Web Development", "org": "Coursera" },
-      { "name": "Front-End Web Development", "org": "Tehran Institute of Technology (MFT)" },
-      { "name": "WordPress & WooCommerce Essential Training", "org": "Tehran Institute of Technology (MFT)" },
-      { "name": "Bachelor's Degree in French Language Translation", "org": "Allameh Tabataba'i University", "duration": "2011 – 2015" }
+      {
+        "name": "Front-End Web Development",
+        "org": "Tehran Institute of Technology (MFT)"
+      },
+      {
+        "name": "WordPress & WooCommerce Essential Training",
+        "org": "Tehran Institute of Technology (MFT)"
+      },
+      {
+        "name": "Bachelor's Degree in French Language Translation",
+        "org": "Allameh Tabataba'i University"
+      }
     ]
   },
   "languages": {
@@ -139,11 +148,6 @@
     "title": "Interested in working together?",
     "desc": "Let's talk about your next project — reach out by email or on social media.",
     "cta": "Let's talk",
-    "footer": "© 2026 — Mojtaba's Portfolio. Designed and built with care.",
-    "socialLinks": {
-      "github": "https://github.com/sabzehparvar",
-      "linkedin": "https://www.linkedin.com/in/mojtaba-sabzehparvar/",
-      "email": "mailto:sabzehparvar.mojtaba@gmail.com"
-    }
+    "footer": "© 2026 — Mojtaba's Portfolio. Designed and built with care."
   }
 }
