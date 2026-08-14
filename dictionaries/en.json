@@ -1,0 +1,96 @@
+{
+  "meta": { "title": "Mojtaba — Frontend Developer" },
+  "nav": {
+    "intro": "Intro", "skills": "Skills", "experience": "Experience",
+    "projects": "Projects", "certs": "Certificates", "contact": "Contact"
+  },
+  "langSwitch": { "label": "فا", "href": "/fa" },
+  "hero": {
+    "eyebrow": "Frontend Developer",
+    "titlePre": "Hi, I'm",
+    "name": "Mojtaba Sabzehparvar",
+    "titlePost": "",
+    "lede": "A frontend developer with 4+ years of experience building responsive web applications with React, Next.js, TypeScript and modern frontend tooling. Focused on scalable interfaces, performance and clean, maintainable code.",
+    "status": "Available for work",
+    "scroll": "SCROLL",
+    "avatarInitial": "M"
+  },
+  "stats": [
+    { "num": "4+", "label": "Years of experience" },
+    { "num": "8", "label": "Projects delivered" },
+    { "num": "9", "label": "Core technologies" },
+    { "num": "2", "label": "Companies" }
+  ],
+  "skills": {
+    "kicker": "01 / Technical Toolkit",
+    "title": "Tools & technologies I work with",
+    "items": [
+      { "short": "Re", "name": "React" },
+      { "short": "N", "name": "Next.js" },
+      { "short": "TS", "name": "TypeScript" },
+      { "short": "JS", "name": "JavaScript" },
+      { "short": "RT", "name": "Redux Toolkit" },
+      { "short": "TW", "name": "Tailwind CSS" },
+      { "short": "RQ", "name": "RTK Query" },
+      { "short": "Zu", "name": "Zustand" },
+      { "short": "Ax", "name": "Axios" }
+    ]
+  },
+  "experience": {
+    "kicker": "02 / Career Path",
+    "title": "Work experience",
+    "items": [
+      {
+        "logo": "SEP", "role": "Frontend Developer", "date": "Aug 2023 — Present",
+        "company": "Saman Electronic Payment (SEP)",
+        "desc": "Building frontend and enterprise applications with React, TypeScript, Redux Toolkit and Tailwind CSS for banking clients, payment services and application platforms. Improving code architecture and the team's user experience."
+      },
+      {
+        "logo": "SAEI", "role": "Frontend Developer", "date": "Jun 2022 — May 2023",
+        "company": "SAEI Group",
+        "desc": "Contributed to frontend development for Myirancell and payment service applications, including account activation, bill payment and invoice management pages, with jQuery and Bootstrap."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "03 / Selected Work",
+    "title": "Featured projects",
+    "viewLabel": "View project",
+    "items": [
+      { "n": "01", "title": "SEP Shop", "desc": "Contributed to frontend development and feature improvements for Saman's e-commerce platform, including product and checkout pages.", "tags": ["React", "TypeScript", "Tailwind CSS"] },
+      { "n": "02", "title": "724", "desc": "Contributed to frontend development for a payment services platform, including bill payment and invoice management.", "tags": ["JavaScript", "Redux Toolkit"] },
+      { "n": "03", "title": "Myirancell", "desc": "Contributed to the Myirancell application and improved the UI with a focus on wireless customers' experience.", "tags": ["React", "RTK Query"] },
+      { "n": "04", "title": "Saei Group", "desc": "Developed the homepage and implemented Saei's comprehensive system with a focus on performance and responsiveness.", "tags": ["Next.js", "TypeScript"] },
+      { "n": "05", "title": "Digirefahi", "desc": "Implemented new frontend features and improved cross-browser compatibility.", "tags": ["JavaScript", "Bootstrap"] },
+      { "n": "06", "title": "Sierra Vision", "desc": "Implemented new frontend features and optimized the UI design of the product showcase.", "tags": ["React", "Zustand"] },
+      { "n": "07", "title": "Verjen", "desc": "Implemented new features and optimized development of a bilingual store's user interface.", "tags": ["Next.js", "Axios"] },
+      { "n": "08", "title": "Avoa", "desc": "Contributed to frontend development for new pages and improved blog responsiveness.", "tags": ["React", "Tailwind CSS"] }
+    ]
+  },
+  "certs": {
+    "kicker": "04 / Continuous Learning",
+    "title": "Certificates & courses",
+    "items": [
+      { "name": "Front-End Web Development", "org": "Coursera" },
+      { "name": "Front-End Web Development", "org": "Saman Institute of Technology (SIT)" },
+      { "name": "WordPress & WooCommerce Essential Training", "org": "Saman Institute of Technology (SIT)" },
+      { "name": "B.A. in French Language Translation", "org": "Islamic Azad University of Semnan" }
+    ]
+  },
+  "languages": {
+    "kicker": "05 / Languages",
+    "title": "Languages I speak",
+    "items": [
+      { "flag": "🇬🇧", "name": "English", "level": "Fluent" },
+      { "flag": "🇫🇷", "name": "French", "level": "Advanced" },
+      { "flag": "🇮🇷", "name": "Persian", "level": "Native" }
+    ]
+  },
+  "contact": {
+    "kicker": "06 / Contact",
+    "title": "Interested in working together?",
+    "desc": "Let's talk about your next project — reach out by email or on social media.",
+    "cta": "Let's talk",
+    "footer": "© 2026 — Mojtaba's Portfolio. Designed and built with care."
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "meta": { "title": "مجتبی — توسعه‌دهنده فرانت‌اند" },
+  "nav": {
+    "intro": "معرفی",
+    "skills": "مهارت‌ها",
+    "experience": "سوابق",
+    "projects": "پروژه‌ها",
+    "certs": "مدارک",
+    "contact": "تماس"
+  },
+  "langSwitch": { "label": "EN", "href": "/en" },
+  "hero": {
+    "eyebrow": "توسعه‌دهنده فرانت‌اند",
+    "titlePre": "سلام، من",
+    "name": "مجتبی سبزه پرور",
+    "titlePost": "هستم",
+    "lede": "با بیش از ۴ سال تجربه در ساخت اپلیکیشن‌های وب واکنش‌گرا با React، Next.js، TypeScript و ابزارهای مدرن فرانت‌اند. تمرکز من روی رابط‌های مقیاس‌پذیر، عملکرد بالا و کدی تمیز و قابل نگهداری است.",
+    "status": "در دسترس برای همکاری",
+    "scroll": "SCROLL",
+    "avatarInitial": "م"
+  },
+  "stats": [
+    { "num": "+۴", "label": "سال تجربه" },
+    { "num": "۸", "label": "پروژه تحویل‌شده" },
+    { "num": "۹", "label": "تکنولوژی اصلی" },
+    { "num": "۲", "label": "شرکت همکار" }
+  ],
+  "skills": {
+    "kicker": "۰۱ / تخصص فنی",
+    "title": "ابزارها و تکنولوژی‌هایی که با آن‌ها کار می‌کنم",
+    "items": [
+      { "short": "Re", "name": "React" },
+      { "short": "N", "name": "Next.js" },
+      { "short": "TS", "name": "TypeScript" },
+      { "short": "JS", "name": "JavaScript" },
+      { "short": "RT", "name": "Redux Toolkit" },
+      { "short": "TW", "name": "Tailwind CSS" },
+      { "short": "RQ", "name": "RTK Query" },
+      { "short": "Zu", "name": "Zustand" },
+      { "short": "Ax", "name": "Axios" }
+    ]
+  },
+  "experience": {
+    "kicker": "۰۲ / مسیر حرفه‌ای",
+    "title": "سوابق کاری",
+    "items": [
+      {
+        "logo": "SEP",
+        "role": "توسعه‌دهنده فرانت‌اند",
+        "date": "مرداد ۱۴۰۲ — اکنون",
+        "company": "Saman Electronic Payment (SEP)",
+        "desc": "توسعه فرانت‌اند و اپلیکیشن‌های سازمانی با React، TypeScript، Redux Toolkit و Tailwind CSS برای مشتریان حوزه بانکداری، خدمات پرداخت و پلتفرم‌های اپلیکیشن‌محور. بهبود معماری کد و تجربه کاربری تیم."
+      },
+      {
+        "logo": "SAEI",
+        "role": "توسعه‌دهنده فرانت‌اند",
+        "date": "تیر ۱۴۰۱ — اردیبهشت ۱۴۰۲",
+        "company": "SAEI Group",
+        "desc": "مشارکت در توسعه فرانت‌اند برای Myirancell و اپلیکیشن‌های خدمات پرداخت، شامل صفحات فعال‌سازی حساب، پرداخت قبض و مدیریت صورت‌حساب با jQuery و Bootstrap."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "۰۳ / نمونه‌کارها",
+    "title": "پروژه‌های منتخب",
+    "viewLabel": "مشاهده پروژه",
+    "items": [
+      {
+        "n": "01",
+        "title": "SEP Shop",
+        "desc": "مشارکت در توسعه فرانت‌اند و بهبود ویژگی‌های فروشگاه الکترونیک سامان، شامل صفحات محصول و پرداخت.",
+        "tags": ["React", "TypeScript", "Tailwind CSS"]
+      },
+      {
+        "n": "02",
+        "title": "۷۲۴",
+        "desc": "مشارکت در توسعه فرانت‌اند برای یک پلتفرم خدمات پرداخت شامل پرداخت قبض و صورت‌حساب.",
+        "tags": ["JavaScript", "Redux Toolkit"]
+      },
+      {
+        "n": "03",
+        "title": "Myirancell",
+        "desc": "مشارکت در توسعه اپلیکیشن Myirancell و بهبود رابط کاربری با تمرکز بر تجربه کاربران بی‌سیم.",
+        "tags": ["React", "RTK Query"]
+      },
+      {
+        "n": "04",
+        "title": "Saei Group",
+        "desc": "توسعه صفحه اصلی و پیاده‌سازی سیستم جامع سائی با تمرکز بر عملکرد و واکنش‌گرایی.",
+        "tags": ["Next.js", "TypeScript"]
+      },
+      {
+        "n": "05",
+        "title": "Digirefahi",
+        "desc": "پیاده‌سازی ویژگی‌های جدید فرانت‌اند و بهبود سازگاری بین مرورگرها.",
+        "tags": ["JavaScript", "Bootstrap"]
+      },
+      {
+        "n": "06",
+        "title": "Sierra Vision",
+        "desc": "پیاده‌سازی ویژگی‌های جدید فرانت‌اند و بهینه‌سازی طراحی رابط کاربری بروشور محصول.",
+        "tags": ["React", "Zustand"]
+      },
+      {
+        "n": "07",
+        "title": "Verjen",
+        "desc": "پیاده‌سازی ویژگی‌های جدید و بهینه‌سازی توسعه رابط کاربری فروشگاه دو زبانه.",
+        "tags": ["Next.js", "Axios"]
+      },
+      {
+        "n": "08",
+        "title": "Avoa",
+        "desc": "مشارکت در توسعه فرانت‌اند برای صفحات جدید و بهبود واکنش‌گرایی بلاگ.",
+        "tags": ["React", "Tailwind CSS"]
+      }
+    ]
+  },
+  "certs": {
+    "kicker": "۰۴ / یادگیری مستمر",
+    "title": "مدارک و دوره‌ها",
+    "items": [
+      { "name": "Front-End Web Development", "org": "Coursera" },
+      {
+        "name": "Front-End Web Development",
+        "org": "Saman Institute of Technology (SIT)"
+      },
+      {
+        "name": "WordPress & WooCommerce Essential Training",
+        "org": "Saman Institute of Technology (SIT)"
+      },
+      {
+        "name": "کارشناسی مترجمی زبان فرانسه",
+        "org": "دانشگاه آزاد اسلامی سمنان"
+      }
+    ]
+  },
+  "languages": {
+    "kicker": "۰۵ / زبان‌ها",
+    "title": "زبان‌هایی که صحبت می‌کنم",
+    "items": [
+      { "flag": "🇬🇧", "name": "انگلیسی", "level": "Fluent" },
+      { "flag": "🇫🇷", "name": "فرانسه", "level": "Advanced" },
+      { "flag": "🇮🇷", "name": "فارسی", "level": "Native" }
+    ]
+  },
+  "contact": {
+    "kicker": "۰۶ / تماس",
+    "title": "علاقه‌مند به همکاری هستید؟",
+    "desc": "بیایید درباره پروژه بعدی‌تان صحبت کنیم — از طریق ایمیل یا شبکه‌های اجتماعی در دسترسم.",
+    "cta": "بیایید صحبت کنیم",
+    "footer": "© ۱۴۰۴ — پورتفولیو مجتبی. طراحی و توسعه با دقت."
+  }
+}
