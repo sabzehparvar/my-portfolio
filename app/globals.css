@@ -749,17 +749,7 @@ section.pad {
   backdrop-filter: blur(6px);
   border: 1px solid rgba(63, 144, 104, 0.3);
 }
-.proj-visual::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background-image: radial-gradient(
-    rgba(244, 240, 230, 0.09) 1px,
-    transparent 1px
-  );
-  background-size: 14px 14px;
-  opacity: 0.6;
-}
+
 .proj-body {
   padding: 24px 26px 26px;
   min-height: 280px;

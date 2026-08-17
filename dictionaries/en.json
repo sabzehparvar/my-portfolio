@@ -11,14 +11,11 @@
   "langSwitch": { "label": "فا", "href": "/fa" },
   "hero": {
     "eyebrow": "Frontend Developer",
-    "titlePre": "Hi, I'm",
     "name": "Mojtaba Sabzehparvar",
-    "titlePost": "",
     "lede": "I'm a Frontend Developer with 4+ years of experience building responsive web applications using React, Next.js, TypeScript, and modern frontend technologies. Experienced in fintech and enterprise platforms with a focus on scalable interfaces, performance, and clean user experiences.",
     "status": "Available for work",
-    "scroll": "SCROLL",
-    "avatarInitial": "M"
-  },
+    "scroll": "SCROLL"
+    },
   "stats": [
     { "num": "4+", "label": "Years of experience" },
     { "num": "8", "label": "Projects delivered" },
@@ -67,51 +64,59 @@
     "items": [
       {
         "n": "01",
-        "title": "SEP Shop",
-        "desc": "Contributed to frontend development and feature implementation for a customer-facing fintech platform by Saman Electronic Payment (SEP), including payment services, bill payments, mobile top-ups, and responsive user interfaces.",
-        "tags": ["React", "Next.js", "Fintech"]
+        "title": "Myirancell",
+        "desc": "Contributed to frontend development for the MyIrancell web application, a telecom self-service platform serving millions of users across Iran, in collaboration with MTN Irancell.",
+        "tags": ["React", "Next.js", "Telecom"],
+        "link": "https://irancell.ir/en/"
       },
       {
         "n": "02",
         "title": "724",
         "desc": "Contributed to frontend development for 724.ir, a large-scale payment and financial services platform, including payment flows, bill payments, internet packages, vehicle fines, and responsive customer-facing interfaces.",
-        "tags": ["Fintech", "Payment Platform", "React"]
+        "tags": ["Fintech", "Payment Platform", "React"],
+        "link": "https://724.ir/"
       },
       {
         "n": "03",
-        "title": "Myirancell",
-        "desc": "Contributed to frontend development for the MyIrancell web application, a telecom self-service platform serving millions of users across Iran, in collaboration with MTN Irancell.",
-        "tags": ["React", "Next.js", "Telecom"]
+        "title": "SEP Shop",
+        "desc": "Contributed to frontend development and feature implementation for a customer-facing fintech platform by Saman Electronic Payment (SEP), including payment services, bill payments, mobile top-ups, and responsive user interfaces.",
+        "tags": ["React", "Next.js", "Fintech"],
+        "link": "https://shop.sep.ir/"
       },
       {
         "n": "04",
         "title": "Saei Group",
         "desc": "Developed responsive pages and reusable UI components for the company website using Next.js and Tailwind CSS.",
-        "tags": ["Next.js", "Tailwind CSS", "Responsive UI"]
+        "tags": ["Next.js", "Tailwind CSS", "Responsive UI"],
+        "link": "https://www.saeigroup.ir/"
       },
       {
         "n": "05",
         "title": "Digirefahi",
         "desc": "Implemented new frontend features and UI improvements while enhancing responsiveness and usability across the platform.",
-        "tags": ["Frontend", "Responsive Design"]
+        "tags": ["Frontend", "Responsive Design"],
+        "link": "https://www.digirefahi.ir/"
       },
       {
         "n": "06",
         "title": "Sierra Vision",
         "desc": "Enhanced frontend functionality, implemented design updates, and resolved responsive layout issues across multiple pages.",
-        "tags": ["Frontend", "Responsive UI"]
+        "tags": ["Frontend", "Responsive UI"],
+        "link": "https://www.sierravision.ir/"
       },
       {
         "n": "07",
         "title": "Verjen",
         "desc": "Implemented new features, improved responsive layouts, and contributed to the development of a bilingual user interface.",
-        "tags": ["Frontend", "Bilingual UI"]
+        "tags": ["Frontend", "Bilingual UI", "Responsive Design"],
+        "link": "https://verjen.ir/"
       },
       {
         "n": "08",
         "title": "Avoa",
         "desc": "Contributed to frontend development by building new pages, refining UI design, and improving responsiveness and blog page layouts.",
-        "tags": ["Frontend", "Responsive Design"]
+        "tags": ["Frontend", "Responsive Design"],
+        "link": "https://avoart.org/"
       }
     ]
   },
@@ -119,7 +124,9 @@
     "kicker": "04 / Continuous Learning",
     "title": "Certificates & courses",
     "items": [
-      { "name": "Front-End Web Development", "org": "Coursera" },
+      { 
+        "name": "Front-End Web Development", 
+        "org": "Coursera" },
       {
         "name": "Front-End Web Development",
         "org": "Tehran Institute of Technology (MFT)"

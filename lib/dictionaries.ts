@@ -11,4 +11,4 @@ export function getDictionary(locale: Locale) {
   return dictionaries[locale] ?? dictionaries.fa;
 }
 
-export type Dictionary = typeof fa;
+export type Dictionary = typeof en;

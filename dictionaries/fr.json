@@ -1,0 +1,161 @@
+{
+  "meta": { "title": "Mojtaba Sabzehparvar — Développeur Frontend" },
+  "nav": {
+    "intro": "Présentation",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "certs": "Diplômes",
+    "contact": "Contact"
+  },
+  "langSwitch": { "label": "EN", "href": "/en" },
+  "hero": {
+    "eyebrow": "Développeur Frontend",
+    "name": "Mojtaba Sabzehparvar",
+    "lede": "Développeur Frontend avec plus de 4 ans d’expérience dans la conception et le développement d’applications web responsives avec React, Next.js, TypeScript et les technologies frontend modernes. Expérience dans les domaines de la fintech et des plateformes d’entreprise, avec un intérêt particulier pour les interfaces évolutives, les performances et une expérience utilisateur fluide.",
+    "status": "Disponible pour de nouvelles opportunités",
+    "scroll": "DÉFILER"
+  },
+  "stats": [
+    { "num": "4+", "label": "Ans d’expérience" },
+    { "num": "8", "label": "Projets réalisés" },
+    { "num": "9", "label": "Technologies principales" },
+    { "num": "2", "label": "Entreprises" }
+  ],
+  "skills": {
+    "kicker": "01 / Compétences techniques",
+    "title": "Technologies et outils que j’utilise",
+    "items": [
+      { "short": "Re", "name": "React" },
+      { "short": "N", "name": "Next.js" },
+      { "short": "TS", "name": "TypeScript" },
+      { "short": "JS", "name": "JavaScript" },
+      { "short": "RT", "name": "Redux Toolkit" },
+      { "short": "TW", "name": "Tailwind CSS" },
+      { "short": "RQ", "name": "RTK Query" },
+      { "short": "Zu", "name": "Zustand" },
+      { "short": "Ax", "name": "Axios" }
+    ]
+  },
+  "experience": {
+    "kicker": "02 / Parcours professionnel",
+    "title": "Expérience professionnelle",
+    "items": [
+      {
+        "logo": "SEP",
+        "role": "Développeur Frontend",
+        "date": "Août 2023 — Aujourd’hui",
+        "company": "Saman Electronic Payment (SEP)",
+        "desc": "Développement et maintenance d’applications web dans les domaines de la fintech et des services d’entreprise avec React, Next.js, TypeScript, Redux Toolkit et Tailwind CSS. Travail sur des services destinés aux clients ainsi que sur des plateformes internes, tout en assurant la maintenance et l’amélioration de systèmes plus anciens basés sur jQuery et Bootstrap."
+      },
+      {
+        "logo": "SAEI",
+        "role": "Développeur Frontend",
+        "date": "Avril 2022 — Mai 2023",
+        "company": "SAEI Group",
+        "desc": "Participation au développement frontend de l’application web MyIrancell, une plateforme de self-service télécom utilisée par des millions d’utilisateurs en Iran. Conception d’interfaces responsives et développement de nouvelles fonctionnalités avec React, Next.js et Tailwind CSS."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "03 / Projets sélectionnés",
+    "title": "Projets récents",
+    "viewLabel": "Voir le projet",
+    "items": [
+      {
+        "n": "01",
+        "title": "MyIrancell",
+        "desc": "Participation au développement frontend de l’application web MyIrancell, une plateforme de self-service télécom utilisée par des millions d’utilisateurs en Iran, en collaboration avec MTN Irancell.",
+        "tags": ["React", "Next.js", "Telecom"],
+        "link": "https://irancell.ir/en/"
+      },
+      {
+        "n": "02",
+        "title": "724",
+        "desc": "Participation au développement frontend de 724.ir, une plateforme de services de paiement et financiers à grande échelle, couvrant notamment les paiements, le règlement des factures, les forfaits Internet, les amendes automobiles et différents services destinés aux clients.",
+        "tags": ["Fintech", "Payment Platform", "React"],
+        "link": "https://724.ir/"
+      },
+      {
+        "n": "03",
+        "title": "SEP Shop",
+        "desc": "Participation au développement frontend et à la mise en place de nouvelles fonctionnalités pour une plateforme fintech destinée aux clients de Saman Electronic Payment (SEP), avec des services de paiement, de règlement des factures, de recharge mobile et des interfaces responsives.",
+        "tags": ["React", "Next.js", "Fintech"],
+        "link": "https://shop.sep.ir/"
+      },
+      {
+        "n": "04",
+        "title": "Saei Group",
+        "desc": "Conception et développement de pages responsives et de composants d’interface réutilisables pour le site web de l’entreprise avec Next.js et Tailwind CSS.",
+        "tags": ["Next.js", "Tailwind CSS", "Responsive UI"],
+        "link": "https://www.saeigroup.ir/"
+      },
+      {
+        "n": "05",
+        "title": "Digirefahi",
+        "desc": "Développement de nouvelles fonctionnalités frontend et amélioration de l’interface utilisateur, avec un accent particulier sur la responsivité, les performances et l’expérience utilisateur.",
+        "tags": ["Frontend", "Responsive Design"],
+        "link": "https://www.digirefahi.ir/"
+      },
+      {
+        "n": "06",
+        "title": "Sierra Vision",
+        "desc": "Amélioration des fonctionnalités frontend, mise en œuvre de changements visuels et résolution de problèmes liés à l’affichage et à la responsivité sur différentes pages du site.",
+        "tags": ["Frontend", "Responsive UI"],
+        "link": "https://www.sierravision.ir/"
+      },
+      {
+        "n": "07",
+        "title": "Verjen",
+        "desc": "Développement de nouvelles fonctionnalités, amélioration de la responsivité des pages et participation à la conception et au développement d’une interface utilisateur bilingue.",
+        "tags": ["Frontend", "Bilingual UI", "Responsive Design"],
+        "link": "https://verjen.ir/"
+      },
+      {
+        "n": "08",
+        "title": "Avoa",
+        "desc": "Participation au développement frontend avec la création de nouvelles pages, l’amélioration de l’interface utilisateur et l’optimisation de la responsivité et de la mise en page des pages du blog.",
+        "tags": ["Frontend", "Responsive Design"],
+        "link": "https://avoart.org/"
+      }
+    ]
+  },
+  "certs": {
+    "kicker": "04 / Formation continue",
+    "title": "Diplômes et formations",
+    "items": [
+      {
+        "name": "Front-End Web Development",
+        "org": "Coursera"
+      },
+      {
+        "name": "Front-End Web Development",
+        "org": "Tehran Institute of Technology (MFT)"
+      },
+      {
+        "name": "WordPress & WooCommerce Essential Training",
+        "org": "Tehran Institute of Technology (MFT)"
+      },
+      {
+        "name": "Licence en traduction de la langue française",
+        "org": "Université Allameh Tabataba'i"
+      }
+    ]
+  },
+  "languages": {
+    "kicker": "05 / Langues",
+    "title": "Langues que je parle",
+    "items": [
+      { "flag": "🇬🇧", "name": "Anglais", "level": "Courant" },
+      { "flag": "🇫🇷", "name": "Français", "level": "Avancé" },
+      { "flag": "🇮🇷", "name": "Persan", "level": "Langue maternelle" }
+    ]
+  },
+  "contact": {
+    "kicker": "06 / Contact",
+    "title": "Envie de travailler ensemble ?",
+    "desc": "Vous avez un projet ou une opportunité de collaboration ? N’hésitez pas à me contacter par e-mail ou via les réseaux sociaux.",
+    "cta": "Parlons-en",
+    "footer": "© 2026 — Portfolio de Mojtaba Sabzehparvar. Conçu et développé avec soin."
+  }
+}
